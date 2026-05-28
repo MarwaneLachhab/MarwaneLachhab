@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l3vRgqJIdbRp7Exfa/giphy.gif" width="100%" height="260" alt="Pixel campfire banner" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" alt="Developer working at a desk with dashboards and code" />
 
 <br />
 <br />
@@ -67,18 +67,19 @@ My direction is software engineering, full-stack development, web applications, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarwaneLachhab&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaneLachhab&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarwaneLachhab&theme=github_dark" alt="GitHub profile summary" />
+
+<br />
+<br />
+
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarwaneLachhab&theme=github_dark" alt="Repositories per language" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarwaneLachhab&theme=github_dark" alt="Most used commit languages" />
+<img width="31%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarwaneLachhab&theme=github_dark&utcOffset=1" alt="Productive time" />
 
 <br />
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MarwaneLachhab&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=MarwaneLachhab&theme=darkhub&no-frame=true&margin-w=12&row=1" alt="GitHub trophies" />
 
 </div>
 
@@ -90,8 +91,6 @@ My direction is software engineering, full-stack development, web applications, 
 - Learning more about cloud, DevOps, and production deployment
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="330" alt="Developer coding animation" />
 
 ### Let's build useful software.
 
