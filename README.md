@@ -1,91 +1,97 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/l3vRgqJIdbRp7Exfa/giphy.gif" width="100%" height="260" alt="Pixel campfire banner" />
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Web+Developer;Mobile+Developer;Angular+%7C+React+%7C+Node.js+%7C+Spring+Boot" alt="Typing SVG" />
+
 <h1>Lachhab Marwane</h1>
-<h3>Software Engineer | Full Stack Web & Mobile Developer</h3>
+<h3>Software Engineer | Full Stack Developer | Web & Mobile Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=2F81F7&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Lachhab+Marwane;Full+Stack+Software+Engineer;Web+%26+Mobile+Developer;I+build+clean%2C+useful%2C+production-minded+apps" alt="Typing introduction" />
-
-<br />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Developer coding animation" />
-
-<br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-MarwaneLachhab-181717?style=for-the-badge&logo=github)](https://github.com/MarwaneLachhab)
-[![Email](https://img.shields.io/badge/Email-marwanlachhab2002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwanlachhab2002@gmail.com)
-![Role](https://img.shields.io/badge/Role-Full%20Stack%20Developer-2F81F7?style=for-the-badge)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=MarwaneLachhab&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/MarwaneLachhab?style=flat-square&color=0ea5e9&label=Followers" alt="GitHub followers" />
+</p>
 
 </div>
 
-## About Me
+## Hello world
 
-I am a full-stack software engineer and web developer focused on building practical digital products, business tools, dashboards, APIs, and mobile applications.
+I'm **Lachhab Marwane**, a **Software Engineer** focused on **Full Stack Web Development** and **Mobile Development**.
 
-My work is centered on clean user interfaces, reliable backend logic, useful automation, and systems that make real workflows faster and easier to manage. I enjoy taking an idea from structure and database design to API development, frontend implementation, authentication, roles, exports, and deployment-ready polish.
+I build dashboards, APIs, admin panels, business tools, mobile apps, automation scripts, and clean user interfaces. My main goal is to create useful software that is reliable, maintainable, and easy to use.
 
-> Motivated, dynamic, and curious. Always learning, always building.
+My direction is software engineering, full-stack development, web applications, mobile apps, backend systems, and practical digital products.
 
-## What I Build
+[GitHub Portfolio](https://github.com/MarwaneLachhab?tab=repositories)
 
-- Full-stack web applications with Angular, React, Node.js, Spring Boot, and Laravel
-- REST APIs, CRUD platforms, dashboards, admin panels, and reporting tools
-- Mobile applications with React Native
-- Automation scripts and internal tools that reduce repetitive work
-- Secure and maintainable systems with authentication, roles, and user activity tracking
+## Contacts
 
-## Tech Stack
+- **GitHub:** [github.com/MarwaneLachhab](https://github.com/MarwaneLachhab)
+- **Email:** [marwanlachhab2002@gmail.com](mailto:marwanlachhab2002@gmail.com)
+- **Location:** Morocco
 
-<div align="center">
+## Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **Programming Languages:** JavaScript, Java, PHP, Python, HTML, CSS
+- **Frontend Development:** Angular, React, React Native, Bootstrap, Tailwind CSS
+- **Backend Development:** Node.js, Spring Boot, Laravel, REST APIs, authentication, role management
+- **Databases:** MySQL, MongoDB, SQL Server
+- **Mobile Development:** React Native for Android and iOS applications
+- **Tools & Platforms:** Git, GitHub, Linux, Windows, WordPress, UML
+- **Security & Cloud Foundations:** Cisco networking, Red Hat Linux, AWS Academy Cloud Security Foundations
+- **Languages:** Arabic, French, English
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+## Featured Projects
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-## Selected Work
-
-| Project / Experience | Stack | Highlights |
+| Project | Type | Link |
 | --- | --- | --- |
-| Business dashboard | Angular, Node.js, SQL Server | Dynamic tables, PDF/Excel export, administrative data visualization |
-| Enterprise system modernization | Angular, Spring Boot | CRUD modules, stronger authentication, role management, user action tracking |
-| Pension calculation module | Java, Angular | Automated calculations, improved reliability, cleaner rights distribution workflow |
-| Mobile application | React Native | Android/iOS app with a modern admin interface and interactive features |
+| Cops and Robbers | React and Canvas game | [Live demo](https://cops-and-robbers.vercel.app) |
+| My Money Map | Web application | [Live demo](https://my-money-map-eight.vercel.app) |
+| All Charts JS | JavaScript chart collection | [Live demo](https://all-charts-js.vercel.app) |
+| Luxury Perfume Haven | E-commerce website | [Live demo](https://luxury-perfume-haven.vercel.app) |
+| Password Manager | Spring Boot and React app | [Repository](https://github.com/MarwaneLachhab/password-manager) |
+| Store With Laravel | Laravel store project | [Repository](https://github.com/MarwaneLachhab/Store_With_Laravel) |
 
-## Professional Direction
+## Experience Highlights
 
-I am currently focused on growing as a software engineer through full-stack web development, scalable backend systems, clean frontend architecture, cloud/security fundamentals, and real-world product thinking.
+- Rebuilt and modernized business systems using **Angular** and **Spring Boot**
+- Created CRUD modules with authentication, roles, and user action tracking
+- Developed administrative dashboards with dynamic tables and **PDF/Excel export**
+- Built mobile application interfaces using **React Native**
+- Created automation tools and scripts to improve workflow speed and reporting quality
 
-My goal is simple: build reliable software that feels good to use and solves the right problem.
-
-## GitHub Activity
+## Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MarwaneLachhab&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaneLachhab&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MarwaneLachhab&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaneLachhab&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MarwaneLachhab&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+<br />
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=MarwaneLachhab&theme=darkhub&no-frame=true&margin-w=12&row=1" alt="GitHub trophies" />
 
 </div>
 
+## Current Focus
+
+- Building stronger full-stack projects with clean architecture
+- Improving backend quality with secure APIs and clear database design
+- Creating better frontend experiences with Angular, React, and React Native
+- Learning more about cloud, DevOps, and production deployment
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Code review animation" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="330" alt="Developer coding animation" />
 
 ### Let's build useful software.
 
